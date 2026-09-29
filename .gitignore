@@ -1,0 +1,10 @@
+venv/
+output/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local member reports (PII)
+reports/*
+!reports/.gitkeep
+*.pdf
